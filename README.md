@@ -1,5 +1,4 @@
-# workshop_4
-Spring MVC REST workshop
+# Spring MVC REST
 
 Simple webb REST API made after 4 module of Coders Lab Java Web Developer course 
 
